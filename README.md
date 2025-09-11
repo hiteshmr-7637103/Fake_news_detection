@@ -47,7 +47,7 @@ This project utilizes the "Fake and Real News Dataset" available on Kaggle.
 ### Running the Application
 
 1.  Execute the main script from the terminal:
-    `python main.py`
+    `Fake_news_detection.ipynb`
 2.  A local URL will be generated (e.g., `http://127.0.0.1:7860`). Open this URL in your web browser to access the application.
 
 ---
